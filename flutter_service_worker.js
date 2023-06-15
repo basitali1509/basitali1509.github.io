@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.json": "6339932ecc7544cdd86404179b027b3a",
-"assets/AssetManifest.smcbin": "858502b1f821c022afe7f9c127b6e224",
+const RESOURCES = {"assets/AssetManifest.json": "b2adfb3dcd8d12521cdc6a43bd4a2a1e",
+"assets/AssetManifest.smcbin": "64fa2f13e92f4cf1cb52a3a694443995",
 "assets/assets/fonts/Poppins-Bold.ttf": "08c20a487911694291bd8c5de41315ad",
 "assets/assets/fonts/Poppins-Medium.ttf": "bf59c687bc6d3a70204d3944082c5cc0",
 "assets/assets/fonts/Poppins-Regular.ttf": "093ee89be9ede30383f39a899c485a82",
@@ -24,7 +24,7 @@ const RESOURCES = {"assets/AssetManifest.json": "6339932ecc7544cdd86404179b027b3
 "assets/assets/icons/linkedin.png": "1816e5c1168ca75e4e824ed21c4f002a",
 "assets/assets/icons/mysql_logo.png": "22053d1b7574fc820199fe97e0744714",
 "assets/assets/icons/NEDUET_logo.png": "ffad3f052623c7589b32b1132c3f5186",
-"assets/assets/icons/postman_logo.jpg": "b5a240ee41c8fcd8f48e634901ead1db",
+"assets/assets/icons/postman_logo.png": "df4716aaf3cc5b918aa6eec27b66a0d9",
 "assets/assets/icons/problem_solving.png": "f3043cacb877e8cc76e2dcbb2e5c1e68",
 "assets/assets/icons/rest_api_logo.png": "a26fadd01c4a7cc59dc4f9b6cd08cc90",
 "assets/assets/icons/sql.png": "3ba741de8d02bf7d4d0efdd38dea06b9",
@@ -54,9 +54,9 @@ const RESOURCES = {"assets/AssetManifest.json": "6339932ecc7544cdd86404179b027b3
 "canvaskit/skwasm.worker.js": "19659053a277272607529ef87acf9d8a",
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
 "icons/profile_bg_icon.png": "4cac8cf23f87822f750a5e7e722ebdc5",
-"index.html": "3a58f5a4a17ce349bfae9b6ea6658be1",
-"/": "3a58f5a4a17ce349bfae9b6ea6658be1",
-"main.dart.js": "361f1418a6d470a3f02f6fcd37078777",
+"index.html": "93b6557ddd00513073f9a70451724c98",
+"/": "93b6557ddd00513073f9a70451724c98",
+"main.dart.js": "f555ccb7c1e094d474909ae14d086653",
 "manifest.json": "387d1df39ed0ae8a0286091581b842c3",
 "splash/img/dark-1x.png": "12bee15afbbf0ef7fe361118ad45a3bc",
 "splash/img/dark-2x.png": "12bee15afbbf0ef7fe361118ad45a3bc",
