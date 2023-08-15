@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.json": "b2adfb3dcd8d12521cdc6a43bd4a2a1e",
-"assets/AssetManifest.smcbin": "64fa2f13e92f4cf1cb52a3a694443995",
+const RESOURCES = {"assets/AssetManifest.json": "1673c702a4949f627b6dddca7bd943ed",
+"assets/AssetManifest.smcbin": "8da88b6c18cb74d2978534a6c3964cd7",
 "assets/assets/fonts/Poppins-Bold.ttf": "08c20a487911694291bd8c5de41315ad",
 "assets/assets/fonts/Poppins-Medium.ttf": "bf59c687bc6d3a70204d3944082c5cc0",
 "assets/assets/fonts/Poppins-Regular.ttf": "093ee89be9ede30383f39a899c485a82",
@@ -32,6 +32,7 @@ const RESOURCES = {"assets/AssetManifest.json": "b2adfb3dcd8d12521cdc6a43bd4a2a1
 "assets/assets/icons/stripe_logo.png": "102e19395196c8ff4a7d0b30951183d6",
 "assets/assets/icons/studio_logo.png": "b97e87ddf73232a4d53687f590b3907c",
 "assets/assets/icons/youtube.png": "92d7341ea8fd5c88350cbd570a145f43",
+"assets/assets/images/Amazon_App.png": "3d752e49899eebf7c9aa4f7932606d7b",
 "assets/assets/images/chat_app.png": "7596b74c4094a39ac334eaf70bc21e61",
 "assets/assets/images/food_app.png": "a4f14f3fcef3625b21bfae5793dbebf6",
 "assets/assets/images/github.png": "bada3b2dca0911637f07d961cd7da5d5",
@@ -54,9 +55,9 @@ const RESOURCES = {"assets/AssetManifest.json": "b2adfb3dcd8d12521cdc6a43bd4a2a1
 "canvaskit/skwasm.worker.js": "19659053a277272607529ef87acf9d8a",
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
 "icons/profile_bg_icon.png": "4cac8cf23f87822f750a5e7e722ebdc5",
-"index.html": "93b6557ddd00513073f9a70451724c98",
-"/": "93b6557ddd00513073f9a70451724c98",
-"main.dart.js": "f555ccb7c1e094d474909ae14d086653",
+"index.html": "f9804593e84d700d74d60cc8c1ffa5d5",
+"/": "f9804593e84d700d74d60cc8c1ffa5d5",
+"main.dart.js": "519f5928662cf51eb0ff4f399e301f5f",
 "manifest.json": "387d1df39ed0ae8a0286091581b842c3",
 "splash/img/dark-1x.png": "12bee15afbbf0ef7fe361118ad45a3bc",
 "splash/img/dark-2x.png": "12bee15afbbf0ef7fe361118ad45a3bc",
